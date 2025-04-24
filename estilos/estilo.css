@@ -1,0 +1,45 @@
+body{
+    background-color: darkgray;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;}
+#titulo{
+    text-align: center;
+    font-size: xx-large;}
+.paragrafos{  
+    font-size: 15px;
+    font-weight: 450;
+    color: mediumblue;}
+.a{
+    color: red;
+    text-decoration-line: none;
+    font-weight: bold;}
+#name{
+    margin-left: 35px;
+}
+#email{
+    margin-left: 34px;
+}
+.tabela{
+    border-collapse: collapse; border: solid black;
+}
+.td{
+    border: solid black;
+}
+#th1{
+    background-color: red; border: solid black
+}
+#th2{
+    background-color: red;
+}
+.galeria{
+    text-align: center;
+    font-size: xx-large;
+}
+#tabelagaleria{
+    margin-left: 21%;
+}#thg1{
+    background-color: red;
+}#thg2{
+    background-color: red;
+}#thg3{
+    background-color: red;
+}
